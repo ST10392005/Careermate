@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "101729042568",
+    "firebase_url": "https://finalpoe-4b137-default-rtdb.firebaseio.com",
+    "project_id": "finalpoe-4b137",
+    "storage_bucket": "finalpoe-4b137.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101729042568:android:6ba3dea8ab7b71697e1f3d",
+        "android_client_info": {
+          "package_name": "com.example.archivecol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghzxnsgNlKHLWbXnDY64eagZoiiHZQHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101729042568:android:147f1bedaeff7b9a7e1f3d",
+        "android_client_info": {
+          "package_name": "com.example.careermateapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghzxnsgNlKHLWbXnDY64eagZoiiHZQHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101729042568:android:8e3d0baf7c8709c77e1f3d",
+        "android_client_info": {
+          "package_name": "com.example.poefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghzxnsgNlKHLWbXnDY64eagZoiiHZQHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

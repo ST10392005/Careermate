@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CareermateApp</string>
+
+        <string name="welcome">Welcome to CareerMate</string>
+        <string name="hello_user">Hello, %s!</string>
+        <string name="upload_resume">Upload Resume</string>
+        <string name="job_description_match">Job Description Match</string>
+        <string name="progress_tracker">Progress Tracker</string>
+        <string name="login">Log In</string>
+        <string name="register">Create Account</string>
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="full_name">Full Name</string>
+        <string name="confirm_password">Confirm Password</string>
+        <string name="welcome_back">Welcome Back</string>
+        <string name="sign_in_continue">Sign in to continue your career journey</string>
+        <string name="dont_have_account">Don\'t have an account?</string>
+        <string name="sign_up">Sign Up</string>
+        <string name="already_have_account">Already have an account?</string>
+        <string name="sign_in">Sign In</string>
+        <string name="create_account">Create Account</string>
+        <string name="start_journey">Start your career journey with us</string>
+        <string name="tap_select_resume">Tap to select resume</string>
+        <string name="supports_pdf_doc">Supports PDF, DOC, DOCX</string>
+        <string name="selected_file">Selected File</string>
+        <string name="tap_change_file">Tap to change file</string>
+        <string name="upload_analyze">Upload &amp; Analyze</string>
+        <string name="paste_job_description">Paste Job Description</string>
+        <string name="analyze_job_description">Analyze Job Description</string>
+        <string name="analysis_results">Analysis Results</string>
+        <string name="overall_progress">Overall Progress</string>
+        <string name="complete">Complete</string>
+        <string name="keep_going">Keep going! You\'re making great progress in your career journey.</string>
+        <string name="recent_activity">Recent Activity</string>
+        <string name="no_recent_activity">No recent activity</string>
+        <string name="settings">Settings</string>
+        <string name="language">Language</string>
+        <string name="language_settings">Language Settings</string>
+        <string name="dark_mode">Dark Mode</string>
+        <string name="toggle_dark_theme">Toggle dark theme</string>
+        <string name="notifications">Notifications</string>
+        <string name="push_notification_settings">Push notification settings</string>
+        <string name="privacy">Privacy</string>
+        <string name="privacy_data_settings">Privacy and data settings</string>
+        <string name="storage">Storage</string>
+        <string name="manage_offline_storage">Manage offline storage</string>
+        <string name="logout">Logout</string>
+        <string name="ready_advance_career">Ready to advance your career?</string>
+   
+</resources>
